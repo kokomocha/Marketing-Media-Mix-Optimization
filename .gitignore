@@ -1,4 +1,11 @@
-#macOS files
-**/.DS_Store
+#OS files
+.DS_Store
 
-#Envs
+#IDE files
+.vscode/
+.idea/
+.ipynb_checkpoints/
+
+#envs
+.conda/
+conda-meta/
